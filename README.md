@@ -8,10 +8,10 @@
 
 # 🔆 NirmalChandra's OpenSource Contributions
 ## `nirmalchandra`'s Dev & Test Contributions
-![Chandra's GitHub stats](https://github-readme-stats.vercel.app/api?include_all_commits=true&username=nirmalchandra&show_icons=true&theme=radical&hide_rank=true&hide=stars)
+![Chandra's GitHub stats](https://github-readme-stats.vercel.app/api?include_all_commits=true&username=nirmalchandra&show_icons=true&theme=radical&hide_rank=true&hide=stars&hide_title=true)
 
-## 📊 `nirmalchandra`'s DevOps & GitOps Contributions
-![Chandra's GitHub stats](https://github-readme-stats.vercel.app/api?include_all_commits=true&username=authorjapps&show_icons=true&theme=radical&hide_rank=false)
+## `nirmalchandra`'s DevOps & GitOps Contributions
+![Chandra's GitHub stats](https://github-readme-stats.vercel.app/api?include_all_commits=true&username=authorjapps&show_icons=true&theme=radical&hide_rank=false&hide_title=true)
 
 <!--
 ## 📊 Detailed Dev Stats:
