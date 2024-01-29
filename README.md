@@ -3,7 +3,9 @@
 
 </br>
 
-🌐 How to reach me : [![LinkedIn](https://img.shields.io/badge/Book%20a%20Free%20Meeting(15min)-8A2BE2)](https://calendar.app.google/V99mEP5YBxbQ5xig7) or via [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ncnayak)
+🌐 How to reach me : 
+- [![LinkedIn](https://img.shields.io/badge/Book%20a%20Free%20Meeting(15min)-8A2BE2)](https://calendar.app.google/V99mEP5YBxbQ5xig7)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ncnayak)
 
 
 # 🔆 NirmalChandra's OpenSource Contributions
