@@ -3,11 +3,12 @@
 
 🌐 How to reach me **nirmal.fleet@gmail.com** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ncnayak)
 
-# 📊 My OpenSource Dev Stats
+# 📊 Chandra's OpenSource Dev Contributions
+## `nirmalchandra`'s GitHub Stats
 ![Chandra's GitHub stats](https://github-readme-stats.vercel.app/api?include_all_commits=true&username=nirmalchandra&show_icons=true&theme=radical&hide_rank=true&hide=stars)
 
 <!--
-# 📊 My OpenSource DevOps/GitOps Stats
+# 📊 Chandra's OpenSource DevOps/GitOps Contributions
 ![Chandra's GitHub stats](https://github-readme-stats.vercel.app/api?include_all_commits=true&username=nirmalchandra&show_icons=true&theme=radical&hide_rank=true&hide=stars)
 -->
 
