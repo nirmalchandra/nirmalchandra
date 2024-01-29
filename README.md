@@ -3,12 +3,23 @@
 
 🌐 How to reach me **nirmal.fleet@gmail.com** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ncnayak)
 
-# 📊 GitHub Main Stats:
+# 📊 My OpenSource Dev Stats
 ![Chandra's GitHub stats](https://github-readme-stats.vercel.app/api?include_all_commits=true&username=nirmalchandra&show_icons=true&theme=radical&hide_rank=true&hide=stars)
 
-## 📊 Detailed Stats:
+<!--
+# 📊 My OpenSource DevOps/GitOps Stats
+![Chandra's GitHub stats](https://github-readme-stats.vercel.app/api?include_all_commits=true&username=nirmalchandra&show_icons=true&theme=radical&hide_rank=true&hide=stars)
+-->
+
+## 📊 Detailed Dev Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nirmalchandra&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nirmalchandra&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<!--
+## 📊 Detailed Ops Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=nirmalchandra&theme=vision-friendly-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nirmalchandra&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+-->
 
 <!--
 **nirmalchandra/nirmalchandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
