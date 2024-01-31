@@ -29,7 +29,7 @@
 - Empowers developers community for raising PRs, forking, branching and merging changes 
 - Setting up GitHub Action scripts for efficient use of free resources
 
-# 🔆 OpenSource Benifits - Explained
+# 🔆 OpenSource Collaboration Benefits - Explained
 - Together we built it so that the framework is evolved over time, validated and you don't have to build it again when you change projects
 - OpenSourced, hence the framework as well as the source code is available to everyone at all times, without getting worried about legality of licensing 
 
