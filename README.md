@@ -26,7 +26,7 @@
 - Providing timely release to Nexus to unblock automation journeys of the Devs/SDETs
 ## GitOps
 - Setting up actiobable rules
-- Empowering developers community efforlessly raise PRs, fork, branch out and merge changes 
+- Empowering world-wide developers community efforlessly raise PRs, fork, branch out and merge changes 
 - Setting up GitHub Action scripts for efficient use of free resources
 
 # 🔆 OpenSource Collaboration Benefits - Explained
