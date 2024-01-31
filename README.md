@@ -22,11 +22,11 @@
 # 🔆 DevOps & GitOps Contributions - Explained
 ## DevOps
 - Setting up seamless CI CD pipelines
-- Empowers you to focus on developing new features and test them independently without worrying about conflicts
+- Empowering you to focus on developing new features and test them independently without worrying about conflicts
 - Providing timely release to Nexus to unblock automation journeys of the Devs/SDETs
 ## GitOps
 - Setting up actiobable rules
-- Empowers developers community for raising PRs, forking, branching and merging changes 
+- Empowering developers community efforlessly raise PRs, fork, branch out and merge changes 
 - Setting up GitHub Action scripts for efficient use of free resources
 
 # 🔆 OpenSource Collaboration Benefits - Explained
