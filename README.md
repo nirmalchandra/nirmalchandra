@@ -10,10 +10,28 @@
 
 # 🔆 NirmalChandra's OpenSource Contributions
 ## `nirmalchandra`'s Dev & Test Contributions
-![Chandra's GitHub stats](https://github-readme-stats.vercel.app/api?include_all_commits=true&username=nirmalchandra&show_icons=true&theme=radical&hide_rank=true&hide=stars&hide_title=true)
+![Chandra's GitHub stats](https://github-readme-stats.vercel.app/api?include_all_commits=true&username=nirmalchandra&show_icons=true&hide_rank=true&hide=stars&hide_title=true)
 
 ## `nirmalchandra`'s DevOps & GitOps Contributions
-![Chandra's GitHub stats](https://github-readme-stats.vercel.app/api?include_all_commits=true&username=authorjapps&show_icons=true&theme=radical&hide_rank=false&hide_title=true)
+![NChandra's GitHub stats](https://github-readme-stats.vercel.app/api?include_all_commits=true&username=authorjapps&show_icons=true&hide_rank=false&hide_title=true)
+
+# 🔆 Dev & Test Contributions - Explained
+- Engineering the automation aspects of the framework
+- Empowers you to focus on writing inputs and assertions only without worrying aobut framework code
+
+# 🔆 DevOps & GitOps Contributions - Explained
+## DevOps
+- Setting up seamless CI CD pipelines
+- Empowers you to focus on developing new features and test them independently without worrying about conflicts
+- Providing timely release to Nexus to unblock automation journeys of the Devs/SDETs
+## GitOps
+- Setting up actiobable rules
+- Empowers developers community for raising PRs, forking, branching and merging changes 
+- Setting up GitHub Action scripts for efficient use of free resources
+
+# 🔆 OpenSource Benifits - Explained
+- Together we built it so that the framework is evolved over time, validated and you don't have to build it again when you change projects
+- OpenSourced, hence the framework as well as the source code is available to everyone at all times, without getting worried about legality of licensing 
 
 <!--
 ## 📊 Detailed Dev Stats:
