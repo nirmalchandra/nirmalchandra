@@ -18,19 +18,25 @@
 # 🔆 Dev & Test Contributions - Explained
 - Engineering the automation aspects of the framework
 - Empowers you to focus on writing inputs and assertions only without worrying aobut framework code
+## Dev
+- Laying down the structures for developers' foundation such as package structures, live resources and testing strategies 
 
+## Test
+- Setting up unit testing and integration testing building blocks for easy collaboration worldwide
+- Containerizing the infra so that everything gets tested locally before the code leaves the developer's machine
+  
 # 🔆 DevOps & GitOps Contributions - Explained
 ## DevOps
-- Setting up seamless CI CD pipelines
+- Setting up seamless CI CD pipelines for efficient developers' collaboration e.g. branch building mechanism
 - Empowering you to focus on developing new features and test them independently without worrying about conflicts
 - Providing timely release to Nexus to unblock automation journeys of the Devs/SDETs
 ## GitOps
-- Setting up actiobable rules
+- Setting up actionable rules for collaborators
 - Empowering world-wide developers community efforlessly raise PRs, fork, branch out and merge changes 
 - Setting up GitHub Action scripts for efficient use of free resources
 
 # 🔆 OpenSource Collaboration Benefits - Explained
-- Together we built it so that the framework is evolved over time, validated and you don't have to build it again when you change projects
+- Together we built it so that the framework is evolved over time, validated, matured and ready for usage
 - OpenSourced, hence the framework as well as the source code is available to everyone at all times, without getting worried about legality of licensing 
 
 <!--
