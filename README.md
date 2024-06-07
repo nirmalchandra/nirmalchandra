@@ -18,10 +18,10 @@
 # 🔆 My Open Source Contributions Summary
 
 ## Operations
-- **GitOps**: Expertise in Git operations and implementing Git Flow strategies.
-- **DevOps**: Proficient in development operations, including automated testing and CI/CD pipeline implementation.
+- **GitOps**: Expertise in Git operations and Git Flow strategies.
+- **DevOps**: Proficient in creating collaborative development and test strategies, including automated testing and CI/CD pipeline implementation.
 
 ## Key Contributions
 - **Automation Framework Engineering**: Developed a robust automation framework that allows seamless writing of integration tests.
-- **Regression Pack Development**: Enabled rapid creation of regression packs, reducing the time required from months to hours or days.
+- **Regression Testing Strategies**: Enabled rapid creation of regression packs, reducing the time required from months to hours or days.
 - **No-Code Integration Testing**: Empowered developers and SDETs globally, to write executable integration tests using simple JSON/YAML, eliminating the need for programming knowledge.
