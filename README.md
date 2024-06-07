@@ -5,7 +5,7 @@
 
 🌐 How to reach me : 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn(Connect)-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ncnayak)
-- [![LinkedIn](https://img.shields.io/badge/Book%20a%20Strategy%20Call(Free)-8A2BE2)](https://calendar.app.google/V99mEP5YBxbQ5xig7)
+- [![LinkedIn](https://img.shields.io/badge/Book%20an%20Automation%20Strategy%20Call(Free)-8A2BE2)](https://calendar.app.google/V99mEP5YBxbQ5xig7)
 
 # 🔆 NirmalChandra's OpenSource Contributions Stats
 
