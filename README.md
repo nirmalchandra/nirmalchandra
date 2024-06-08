@@ -18,8 +18,12 @@
 # 🔆 Highlights of My Open Source Contributions
 
 ## Operational Expertise
-- **GitOps**: Expertise in Git operations and Git Flow strategies for highly collaborative environments.
-- **DevOps**: Proficient in creating collaborative development and test strategies, including automated testing and CI/CD pipeline implementation.
+- **GitOps**: Expertise in Git operations and Git Flow strategies for highly collaborative environments, enabling efficient version control and seamless collaboration.
+
+- **DevOps**: Proficient in creating collaborative development and testing strategies, including automated testing, continuous integration, and continuous deployment (CI/CD) pipeline implementation.
+
+- **Artifact Management**: Creating and managing private, public, and freemium artifact repositories (artifactories) for smooth product go-to-market (GTM) and efficient product shipment.
+
 
 ## Key Achievements
 - **Automation Framework Engineering**: Architected and developed a robust automation framework that streamlines the writing of integration tests, enabling seamless and efficient testing processes.
