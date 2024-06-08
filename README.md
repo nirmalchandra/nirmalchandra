@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nirmal Chandra</h1>
-<h3 align="center">Your Data Pipeline & API Automation Assistant 💫</h3>
+<h3 align="center">Your Product Pipeline & API Automation Assistant 💫</h3>
 
 </br>
 
