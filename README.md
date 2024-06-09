@@ -9,11 +9,11 @@
 
 # 🔆 NirmalChandra's OpenSource Contributions Stats
 
-## `nirmalchandra`'s DevOps & GitOps Contribution
-<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=authorjapps&include_all_commits=true&show_icons=true&theme=tokyonight&hide_title=true&PAT_1=my01xvalid309token"/></p>
+## `nirmalchandra`'s DevOps & GitOps Contribution(As Admin):
+<p align="center"><img width="90%" src="https://github-readme-stats.vercel.app/api?username=authorjapps&include_all_commits=true&show_icons=true&theme=tokyonight&hide_title=true&PAT_1=my01xvalid309token"/></p>
 
-## `nirmalchandra`'s Dev & Test Contributions
-<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?theme=tokyonight&include_all_commits=true&username=nirmalchandra&show_icons=true&hide_rank=true&hide=stars&hide_title=true&PAT_1=my01xvalid409token" /></p>
+## `nirmalchandra`'s Dev & Test Contributions(As Developer):
+<p align="center"><img width="90%" src="https://github-readme-stats.vercel.app/api?theme=tokyonight&include_all_commits=true&username=nirmalchandra&show_icons=true&hide_rank=true&hide=stars&hide_title=true&PAT_1=my01xvalid409token" /></p>
 
 # 🔆 Highlights of My Open Source Contributions
 
@@ -40,9 +40,7 @@
 ## Product Delivery and Operations
 - **Artifact Management**: Creating and managing private, public, and freemium artifact repositories (artifactories) for smooth product go-to-market (GTM) strategies and efficient product shipment to customers.
 
-- **Multi-Platform Build Pipelines**: Containerized build processes for easy local laptop development and CI/CD pipelines for deploying applications across multiple target platforms (Windows, Linux, macOS).
-
-- **Git Mirroring and CI/CD Integration**: Efficiently set up Git mirroring to leverage the benefits of both GitLab Pipelines and GitHub Actions, taking advantage of their freemium and subscription limits.
+- **Multi-Platform Build Pipelines**: Containerized build processes for easy local laptop development and CI/CD pipelines for packaging applications for multiple target platforms (e.g. Windows, Linux, macOS).
 
 ## Product Licensing and Activation
 - **License Validation Mechanisms**: Integrated license validation mechanisms into CI/CD pipelines for validating smooth activation and optimal end-user experience.
