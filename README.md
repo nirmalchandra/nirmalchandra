@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nirmal Chandra</h1>
-<h3 align="center">Product Engineering, Data Pipeline, API Integration & Automation Expert 💫</h3>
+<h3 align="center">Product Engineering, Data Pipeline & Automation Expert 💫</h3>
 
 </br>
 
