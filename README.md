@@ -22,7 +22,7 @@
 
 - **DevOps**: Proficient in creating collaborative development and testing strategies, including automated testing, continuous integration, and continuous deployment (CI/CD) pipeline implementation.
 
-- **Artifact Management**: Creating and managing private, public, and freemium artifact repositories (artifactories) for smooth product go-to-market (GTM) and efficient product shipment.
+- **Environment and Artifact Management**: Created and managed private and public artifact repositories, such as local Nexus and PyPI (artifactories), for smooth environment transitions and production deployments.
 
 
 ## Key Achievements
