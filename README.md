@@ -9,11 +9,14 @@
 
 # 🔆 NirmalChandra's OpenSource Contributions Stats
 
-## `nirmalchandra`'s DevOps & GitOps Contribution(As Admin):
-<p align="center"><img width="90%" src="https://github-readme-stats.vercel.app/api?username=authorjapps&include_all_commits=true&show_icons=true&theme=tokyonight&hide_title=true&PAT_1=my01xvalid309token"/></p>
+## 🟢 Snapshot of my OSS collabs
+![](https://github-readme-streak-stats.herokuapp.com/?user=authorjapps&theme=vision-friendly-dark&hide_border=false)<br/>
 
-## `nirmalchandra`'s Dev & Test Contributions(As Developer):
-<p align="center"><img width="90%" src="https://github-readme-stats.vercel.app/api?theme=tokyonight&include_all_commits=true&username=nirmalchandra&show_icons=true&hide_rank=true&hide=stars&hide_title=true&PAT_1=my01xvalid409token" /></p>
+## 🟢 My DevOps & GitOps Contribution
+<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=authorjapps&include_all_commits=true&show_icons=true&theme=vision-friendly-dark&hide_title=true&PAT_1=my01xvalid309token"/></p>
+
+## 🟢 My Dev & Test Contributions
+<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?theme=vision-friendly-dark&include_all_commits=true&username=nirmalchandra&show_icons=true&hide_rank=true&hide=stars&hide_title=true&PAT_1=my01xvalid409token" /></p>
 
 # 🔆 Highlights of My Open Source Contributions
 
