@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nirmal Chandra</h1>
-<h3 align="center">Product Engineering || Cyber Security || Automation Expert || GTM Strategist 🟢 </h3>
+<h3 align="center"> CTO || Product Engineering || Cyber Security || Automation Expert || GTM Strategist 🟢 </h3>
 
 </br>
 
