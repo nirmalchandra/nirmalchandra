@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nirmal Chandra</h1>
-<h3 align="center"> CTO || Product Engineering || Cyber Security || Automation Expert || GTM Strategist 🟢 </h3>
+<h3 align="center">Product Engineering || CTO || Cyber Security || Automation Expert || GTM Strategist 🟢 </h3>
 
 </br>
 
 🚀 How to reach me : 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn(Connect)-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ncnayak)
-- [![LinkedIn](https://img.shields.io/badge/Book%20an%20Automation%20Strategy%20Call(Free)-8A2BE2)](https://calendar.app.google/V99mEP5YBxbQ5xig7)
+- [![LinkedIn](https://img.shields.io/badge/Book%20a%20Strategy%20Call%20(Free)-8A2BE2)](https://calendar.app.google/V99mEP5YBxbQ5xig7)
 
-# 💫 NirmalChandra's OpenSource Collaboration Stats
+# 🟩 NirmalChandra's OpenSource Collaboration Stats
 
 ## Snapshot of my OSS collaborations
 <p align="left"><img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=authorjapps&theme=vision-friendly-dark&hide_border=false"/></p>
@@ -27,7 +27,7 @@
 > [!TIP]
 > Can't view the above chart correctly? Then, click [here](https://github-readme-stats.vercel.app/api?theme=vision-friendly-dark&include_all_commits=true&username=nirmalchandra&show_icons=true&hide_rank=true&hide=stars&hide_title=true&PAT_1=my01xvalid409token).
 
-# 🔆 Highlights of My Open Source Contributions
+# 🟩 Highlights of My Open Source Contributions
 
 ## Key Operational Expertise
 - **GitOps**: Created Git Operations and Git Flow strategies for highly collaborative environments, enabling efficient version control and seamless collaboration.
