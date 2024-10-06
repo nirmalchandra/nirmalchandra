@@ -46,7 +46,7 @@
 
 - **Regression Testing Transformation**: Revolutionized regression testing practices by enabling the rapid creation of regression packs, reducing the time required from months to mere hours or days, driving significant productivity gains.
 
-Visit my [Website](https://todo) and [Blogs](https://todo) to learn more.
+Visit my [Portfolio Website](https://story.ncnayak.pages.dev) and [Blogs sites](https://story.ncnayak.pages.dev/my-blogs) to learn more.
 
 <!-- 
 # 🔆 Highlights of My Commercial Product Leadership
