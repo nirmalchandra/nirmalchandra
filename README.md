@@ -4,9 +4,10 @@
 </br>
 
 🚀 How to reach me : 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn(Connect)-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ncnayak)
+- [![Topmate](https://img.shields.io/badge/Topmate.io(Schedule)-%23DF492D.svg?logo=linkedin&logoColor=white)](https://topmate.io/nirmal_n)
 - [![LinkedIn](https://img.shields.io/badge/Book%20a%20Strategy%20Call%20(Free)-8A2BE2)](https://calendar.app.google/V99mEP5YBxbQ5xig7)
-
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn(Connect)-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ncnayak)
+ 
 # 🟩 NirmalChandra's OpenSource Collaboration Stats
 
 ## Snapshot of my OSS collaborations
