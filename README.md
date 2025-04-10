@@ -3,51 +3,58 @@
 
 </br>
 
-🚀 How to reach me : 
+### Blog posts:
+- [Quick & Easy Automation for Kafka and Data Pipeline Testing](https://dzone.com/articles/a-quick-and-practical-example-of-kafka-testing)
+- [Simplify Performance Testing with Accuracy — Headless JMeter Style](https://dzone.com/articles/how-we-do-performance-testing-easily-efficiently-a)
+- [Getting Started with Kafka | Early Bees](https://dzone.com/articles/quick-overview-of-concepts-for-kafka-testing)
+
+### 🚀 Connect with me : 
 <!-- - [![Topmate](https://img.shields.io/badge/Topmate.io(Schedule)-%23DF492D.svg?logo=linkedin&logoColor=white)](https://topmate.io/nirmal_n) -->
 - [![LinkedIn](https://img.shields.io/badge/Book%20a%20Strategy%20Call%20(Free)-8A2BE2)](https://calendar.app.google/V99mEP5YBxbQ5xig7)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn(Connect)-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ncnayak)
  
-# 🟩 NirmalChandra's OpenSource Collaboration Stats
+# 📈 NirmalChandra's OpenSource Collaboration Stats
 
-## Snapshot of my OSS collaborations
-<p align="left"><img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=authorjapps&theme=vision-friendly-dark&hide_border=false"/></p>
+### Snapshot of my OSS collaborations
+<p align="left"><img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=authorjapps&theme=vision-friendly-dark&hide_border=false"/></p>
 
 > [!TIP]
 > Can't view the above chart correctly? Then, click [here](https://github-readme-streak-stats.herokuapp.com/?user=authorjapps&theme=vision-friendly-dark&hide_border=false).
 
 ### 🟢 My DevOps & GitOps Contribution
-<p align="left"><img width="85%" src="https://github-readme-stats.vercel.app/api?username=authorjapps&include_all_commits=true&show_icons=true&theme=vision-friendly-dark&hide_title=true&PAT_1=my01xvalid309token"/></p>
+<p align="left"><img width="55%" src="https://github-readme-stats.vercel.app/api?username=authorjapps&include_all_commits=true&show_icons=true&theme=vision-friendly-dark&hide_title=true&PAT_1=my01xvalid309token"/></p>
 
 > [!TIP]
 > Can't view the above chart correctly? Then, click [here](https://github-readme-stats.vercel.app/api?username=authorjapps&include_all_commits=true&show_icons=true&theme=vision-friendly-dark&hide_title=true&PAT_1=my01xvalid309token).
 
 ### 🟢 My Dev & QA Contributions
-<p align="left"><img width="85%" src="https://github-readme-stats.vercel.app/api?theme=vision-friendly-dark&include_all_commits=true&username=nirmalchandra&show_icons=true&hide_rank=true&hide=stars&hide_title=true&PAT_1=my01xvalid409token" /></p>
+<p align="left"><img width="55%" src="https://github-readme-stats.vercel.app/api?theme=vision-friendly-dark&include_all_commits=true&username=nirmalchandra&show_icons=true&hide_rank=true&hide=stars&hide_title=true&PAT_1=my01xvalid409token" /></p>
 
 > [!TIP]
 > Can't view the above chart correctly? Then, click [here](https://github-readme-stats.vercel.app/api?theme=vision-friendly-dark&include_all_commits=true&username=nirmalchandra&show_icons=true&hide_rank=true&hide=stars&hide_title=true&PAT_1=my01xvalid409token).
 
-# 🟩 Highlights of My Open Source Contributions
+# 📈 Highlights of My Open Source Contributions
 
-## Key Operational Expertise
+### Key Operational Expertise
 - **GitOps**: Created Git Operations and Git Flow strategies for highly collaborative environments, enabling efficient version control and seamless collaboration.
 
 - **DevOps**: Created collaborative development and testing strategies, including automated testing, continuous integration, and continuous deployment (CI/CD) pipeline implementation.
 
 - **Environment and Artifact Management**: Created and managed private and public artifact repositories, such as local Nexus and PyPI (artifactories), for smooth environment transitions and production deployments.
 
-## Key Development Expertise
+### Key Development Expertise
 - **Automation Framework Engineering**: Architected and developed a robust automation framework that streamlines the writing of integration tests, enabling seamless and efficient testing processes.
 
 - **Driving Cultural Transformation**: Spearheaded a global cultural shift by creating and mentoring teams of developers and test engineers, instilling Test-Driven Development (TDD) methodologies into their development and testing practices.
 
-## Key QA Expertise
+### Key QA Expertise
 - **No-Code Integration Testing (Global Impact)**: Empowered developers and SDETs worldwide by introducing a no-code approach to writing executable integration tests using simple JSON/YAML, eliminating the need for programming knowledge and democratizing testing capabilities.
 
 - **Regression Testing Transformation**: Revolutionized regression testing practices by enabling the rapid creation of regression packs, reducing the time required from months to mere hours or days, driving significant productivity gains.
 
 Visit my [Portfolio Website](https://story.ncnayak.pages.dev) and [Blogs sites](https://story.ncnayak.pages.dev/my-blogs) to learn more.
+
+![](https://komarev.com/ghpvc/?username=nirmalchandra)
 
 <!-- 
 # 🔆 Highlights of My Commercial Product Leadership
