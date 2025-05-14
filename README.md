@@ -13,27 +13,24 @@
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn(Connect)-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ncnayak)
 - [![LinkedIn](https://img.shields.io/badge/Book%20an%20Automation%20Strategy%20Call%20(Free)-8A2BE2)](https://calendar.app.google/V99mEP5YBxbQ5xig7)
  
-# 📈 NirmalChandra's OpenSource Collaboration Stats
+## NirmalChandra's Open-Source Commits
 
-### Snapshot of my OSS collaborations
-<p align="left"><img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=authorjapps&theme=vision-friendly-dark&hide_border=false"/></p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=authorjapps&theme=chartreuse_dark)
+
+<p align="left"><img width="55%" src="https://github-readme-stats.vercel.app/api?username=authorjapps&include_all_commits=true&show_icons=true&theme=vision-friendly-dark&hide_title=true&PAT_1=my01xvalid309token"/></p> 
 
 > [!TIP]
 > Can't view the above chart correctly? Then, click [here](https://github-readme-streak-stats.herokuapp.com/?user=authorjapps&theme=vision-friendly-dark&hide_border=false).
 
-### 🟢 My DevOps & GitOps Contribution
-<p align="left"><img width="55%" src="https://github-readme-stats.vercel.app/api?username=authorjapps&include_all_commits=true&show_icons=true&theme=vision-friendly-dark&hide_title=true&PAT_1=my01xvalid309token"/></p>
+<h3 align="lest"> Last Year's Stats: </h3>
+<hr>
 
-> [!TIP]
-> Can't view the above chart correctly? Then, click [here](https://github-readme-stats.vercel.app/api?username=authorjapps&include_all_commits=true&show_icons=true&theme=vision-friendly-dark&hide_title=true&PAT_1=my01xvalid309token).
+![Last Year](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nirmalchandra&theme=algolia)
 
-### 🟢 My Dev & QA Contributions
-<p align="left"><img width="55%" src="https://github-readme-stats.vercel.app/api?theme=vision-friendly-dark&include_all_commits=true&username=nirmalchandra&show_icons=true&hide_rank=true&hide=stars&hide_title=true&PAT_1=my01xvalid409token" /></p>
+----------------
 
-> [!TIP]
-> Can't view the above chart correctly? Then, click [here](https://github-readme-stats.vercel.app/api?theme=vision-friendly-dark&include_all_commits=true&username=nirmalchandra&show_icons=true&hide_rank=true&hide=stars&hide_title=true&PAT_1=my01xvalid409token).
 
-# 📈 Highlights of My Open Source Contributions
+## 📈 Highlights of My Open Source Contributions
 
 ### Key Operational Expertise
 - **GitOps**: Created Git Operations and Git Flow strategies for highly collaborative environments, enabling efficient version control and seamless collaboration.
