@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nirmal Chandra</h1>
-<h3 align="center">Product Engineering || CTO || Cyber Security || Automation Expert || GTM Strategist 🟢 </h3>
+<h3 align="center">Product Engineering || Open-Source Author || Cyber Security || Automation Expert || GTM Strategist 🟢 </h3>
 
 </br>
 
@@ -19,7 +19,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=authorjapps&theme=chartreuse_dark)
 
-<p align="left"><img width="55%" src="https://github-readme-stats.vercel.app/api?username=authorjapps&include_all_commits=true&show_icons=true&theme=algolia&hide_title=true&PAT_1=my01xvalid309token"/></p> 
+<p align="left"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=authorjapps&include_all_commits=true&show_icons=true&theme=algolia&hide_title=true&PAT_1=my01xvalid309token"/></p> 
 
 > [!TIP]
 > Can't view the above chart correctly? Then, click [here](https://github-readme-streak-stats.herokuapp.com/?user=authorjapps&theme=vision-friendly-dark&hide_border=false).
