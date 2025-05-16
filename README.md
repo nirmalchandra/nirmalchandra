@@ -26,7 +26,7 @@
 
 -------------------------
 
-<h3 align="lest"> Last Year's Commits Stats: </h3>
+<h3 align="lest"> Last One Year's Commits Stats: </h3>
 
 ![Last Year](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nirmalchandra&theme=algolia)
 
