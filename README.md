@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nirmal Chandra</h1>
-<h3 align="center">Product Engineering || Open-Source Author || Cyber Security || Automation Expert || GTM Strategist 🟢 </h3>
+<h3 align="center">ETL Engineering || Test Automation Expert || Open-Source Author || Cyber Security  || GTM Strategist 🟢 </h3>
 
 </br>
 
@@ -33,6 +33,11 @@
 
 ## 📈 Highlights of My Open Source Contributions
 
+### Key QA Expertise
+- **No-Code Integration Testing (Global Impact)**: Empowered developers and SDETs worldwide by introducing a no-code approach to writing executable integration tests using simple JSON/YAML, eliminating the need for programming knowledge and democratizing testing capabilities.
+
+- **Regression Testing Transformation**: Revolutionized regression testing practices by enabling the rapid creation of regression packs, reducing the time required from months to mere hours or days, driving significant productivity gains.
+
 ### Key Operational Expertise
 - **GitOps**: Created Git Operations and Git Flow strategies for highly collaborative environments, enabling efficient version control and seamless collaboration.
 
@@ -44,11 +49,6 @@
 - **Automation Framework Engineering**: Architected and developed a robust automation framework that streamlines the writing of integration tests, enabling seamless and efficient testing processes.
 
 - **Driving Cultural Transformation**: Spearheaded a global cultural shift by creating and mentoring teams of developers and test engineers, instilling Test-Driven Development (TDD) methodologies into their development and testing practices.
-
-### Key QA Expertise
-- **No-Code Integration Testing (Global Impact)**: Empowered developers and SDETs worldwide by introducing a no-code approach to writing executable integration tests using simple JSON/YAML, eliminating the need for programming knowledge and democratizing testing capabilities.
-
-- **Regression Testing Transformation**: Revolutionized regression testing practices by enabling the rapid creation of regression packs, reducing the time required from months to mere hours or days, driving significant productivity gains.
 
 -------------------------
 
