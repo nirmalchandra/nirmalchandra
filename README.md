@@ -5,9 +5,9 @@
 
 ### Blog posts:
 
-- [Quick & Easy Automation for Kafka and Data Pipeline Testing](https://dzone.com/articles/a-quick-and-practical-example-of-kafka-testing)
-- [Simplify Performance Testing with Accuracy — Headless JMeter Style](https://dzone.com/articles/how-we-do-performance-testing-easily-efficiently-a)
-- [Getting Started with Kafka | Early Bees](https://dzone.com/articles/quick-overview-of-concepts-for-kafka-testing)
+- [Quick & Easy Automation for Kafka and Data Pipeline Testing](https://dzone.com/articles/a-quick-and-practical-example-of-kafka-testing) ▶200K+ views👁️
+- [Simplify Performance Testing with Accuracy — Headless JMeter Style](https://dzone.com/articles/how-we-do-performance-testing-easily-efficiently-a) ▶63K+ views👁️
+- [Getting Started with Kafka | Early Bees](https://dzone.com/articles/quick-overview-of-concepts-for-kafka-testing) ▶32K+ views👁️
 
 ### 🚀 Connect with me : 
 
