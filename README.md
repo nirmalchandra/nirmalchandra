@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nirmal Chandra</h1>
 <h3 align="center">ETL Engineering || Test Automation Expert || Open-Source Author || Cyber Security  || GTM Strategist 🟢 </h3>
 
-</br>
-
 ### Blog posts:
 
 - [Quick & Easy Automation for Kafka and Data Pipeline Testing](https://dzone.com/articles/a-quick-and-practical-example-of-kafka-testing) ▶200K+ views👁️
@@ -19,12 +17,28 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=authorjapps&theme=chartreuse_dark)
 
+## Repos I Collaborate With:
+
+View my repo-wise contributions
+
+| About The open-source Project        | **Git Link**  | **Comments**  |
+| ------------------------ | ----- | ----- |
+| Nocode or Lowcode Testing Framework | https://github.com/authorjapps/zerocode | - |
+| Automated Testing Examples - API & Microservices | https://github.com/authorjapps/zerocode-hello-world | - |
+| Automated Testing Examples - Kafka - Data Stream Application | https://github.com/authorjapps/hello-kafka-stream-testing | - |
+| Automated Load Testing Examples - JMeter Headless Style | https://github.com/authorjapps/performance-tests | - |
+| API Simulators | https://github.com/authorjapps/simulator | - |
+| Sping Project In-memory Integration Testing| https://github.com/authorjapps/spring-boot-integration-test | - |  
+| PDF Password protector | https://github.com/SUPAIDEAS/passifypdf | - |  
+
+
 ![](https://github-readme-stats.vercel.app/api?username=authorjapps&include_all_commits=true&show_icons=true&theme=algolia&hide_title=true&PAT_1=my01xvalid309token)
 
 > [!TIP]
 > Can't view the above chart correctly? Then, click [here](https://github-readme-streak-stats.herokuapp.com/?user=authorjapps&theme=vision-friendly-dark&hide_border=false).
 
 -------------------------
+
 
 <h3 align="lest"> Last One Year's Commits Stats: </h3>
 
