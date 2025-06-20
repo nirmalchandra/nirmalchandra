@@ -7,28 +7,26 @@
 - [Simplify Performance Testing with Accuracy — Headless JMeter Style](https://dzone.com/articles/how-we-do-performance-testing-easily-efficiently-a) ▶63K+ views👁️
 - [Getting Started with Kafka | Early Bees](https://dzone.com/articles/quick-overview-of-concepts-for-kafka-testing) ▶32K+ views👁️
 
-### 🚀 Connect with me : 
+### 🚀 Connect with me: 
 
 <!-- - [![Topmate](https://img.shields.io/badge/Topmate.io(Schedule)-%23DF492D.svg?logo=linkedin&logoColor=white)](https://topmate.io/nirmal_n) -->
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn(Connect)-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ncnayak)
-- [![LinkedIn](https://img.shields.io/badge/Book%20an%20Automation%20Strategy%20Call%20(Free)-8A2BE2)](https://calendar.app.google/V99mEP5YBxbQ5xig7)
+- [![Google Calander](https://img.shields.io/badge/Book%20an%20Automation%20Strategy%20Call%20(Free)-8A2BE2)](https://calendar.app.google/V99mEP5YBxbQ5xig7)
  
-## NirmalChandra's Open-Source Commits
+## NirmalChandra's Open-Source Commits:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=authorjapps&theme=chartreuse_dark)
 
-## Repos I Collaborate With:
+## Git Repos:
 
-View my repo-wise contributions
-
-| About The open-source Project        | **Git Link**  | **Comments**  |
-| ------------------------ | ----- | ----- |
+| Open-source Projects        | **Git Link**  | **Comments**  |
+| ------------------------:| ----- | ----- |
 | Nocode or Lowcode Testing Framework | https://github.com/authorjapps/zerocode | - |
-| Automated Testing Examples - API & Microservices | https://github.com/authorjapps/zerocode-hello-world | - |
-| Automated Testing Examples - Kafka - Data Stream Application | https://github.com/authorjapps/hello-kafka-stream-testing | - |
-| Automated Load Testing Examples - JMeter Headless Style | https://github.com/authorjapps/performance-tests | - |
+| Seamless Automated Testing - API & Microservices | https://github.com/authorjapps/zerocode-hello-world | - |
+| Seamless Automated Testing - Kafka/Data Stream apps | https://github.com/authorjapps/hello-kafka-stream-testing | - |
+| Automated Load Testing - JMeter Headless Style | https://github.com/authorjapps/performance-tests | - |
 | API Simulators | https://github.com/authorjapps/simulator | - |
-| Sping Project In-memory Integration Testing| https://github.com/authorjapps/spring-boot-integration-test | - |  
+| Spring Project In-memory Integration Testing| https://github.com/authorjapps/spring-boot-integration-test | - |  
 | PDF Password protector | https://github.com/SUPAIDEAS/passifypdf | - |  
 
 
