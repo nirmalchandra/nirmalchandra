@@ -24,8 +24,8 @@
 
 ## Git Repos:
 
-| Open-source Projects        | **Git Link**  | **Comments**  |
-| ------------------------:| ----- | ----- |
+| Open-Source Projects        | **Git Link**  | **Comment**  |
+|:------------------------|:-----| ----- |
 | Nocode or Lowcode Testing Framework | https://github.com/authorjapps/zerocode | - |
 | Seamless Automated Testing - API & Microservices | https://github.com/authorjapps/zerocode-hello-world | - |
 | Seamless Automated Testing - Kafka/Data Stream apps | https://github.com/authorjapps/hello-kafka-stream-testing | - |
