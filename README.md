@@ -1,11 +1,16 @@
-<h1 align="center">Hi 👋, I'm Nirmal Chandra</h1>
-<h3 align="center">ETL Engineering || Test Automation Expert || Open-Source Author || Cyber Security  || GTM Strategist 🟢 </h3>
+<h1 align="center">Hi 👋, I'm Nirmal Nayak </h1>
+<h3 align="center">ETL Engineering || Automation Expert || Open-Source Creator || Cyber Security 🟢 </h3>
 
-### Blog posts:
+### Blogs:
 
-- [Quick & Easy Automation for Kafka and Data Pipeline Testing](https://dzone.com/articles/a-quick-and-practical-example-of-kafka-testing) ▶200K+ views👁️
-- [Simplify Performance Testing with Accuracy — Headless JMeter Style](https://dzone.com/articles/how-we-do-performance-testing-easily-efficiently-a) ▶63K+ views👁️
-- [Getting Started with Kafka | Early Bees](https://dzone.com/articles/quick-overview-of-concepts-for-kafka-testing) ▶32K+ views👁️
+- #### "Manual Testing" Blogs
+  - [Manual Tester’s Top 3 Database Client Tools To Easily Test ETL Database Logic](https://medium.com/@nirmal.nayak/the-manual-testers-secret-weapons-3-database-tools-that-make-etl-or-data-testing-easy-fb84a65f9719)  ▶ New* (+ Video 📹 Tutorial)
+  - [What To Know About Kafka Before You Start Testing Data Stream Applications | Early Bees](https://dzone.com/articles/quick-overview-of-concepts-for-kafka-testing) ▶32K+ views👁️
+
+
+- #### "Automated Testing" Blogs
+  - [Quick & Easy Automation for Kafka and Data Pipeline Testing](https://dzone.com/articles/a-quick-and-practical-example-of-kafka-testing) ▶200K+ views👁️
+  - [Simplify Performance Testing with Accuracy — Headless JMeter Style](https://dzone.com/articles/how-we-do-performance-testing-easily-efficiently-a) ▶63K+ views👁️
 
 ### 🚀 Connect with me: 
 
