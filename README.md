@@ -4,9 +4,8 @@
 ### Blogs:
 
 - #### "Manual Testing" Blogs
-  - [Testing Data Stream Applications(Kafka) Isn’t Like Testing APIs — 5 Must‐Know Concepts for Testers](https://medium.com/@nirmal.nayak/testing-kafka-isnt-like-testing-apis-5-must-know-concepts-for-testers-b866bc5689ed) ▶ New* (+ Video 📹 Tutorial)
+  - [Testing Data Stream Applications(Kafka) Isn’t Like Testing APIs — 5 Must‐Know Kafka Concepts for Testers](https://medium.com/@nirmal.nayak/testing-kafka-isnt-like-testing-apis-5-must-know-concepts-for-testers-b866bc5689ed) ▶ New* (+ Video 📹 Tutorial)
   - [Manual Tester’s Top 3 Database Client Tools To Easily Test ETL Database Logic](https://medium.com/@nirmal.nayak/the-manual-testers-secret-weapons-3-database-tools-that-make-etl-or-data-testing-easy-fb84a65f9719)  ▶ New* (+ Video 📹 Tutorial)
-  - [What To Know About Kafka Before You Start Testing Data Stream Applications | Early Bees](https://dzone.com/articles/quick-overview-of-concepts-for-kafka-testing) ▶32K+ views👁️
 
 
 - #### "Automated Testing" Blogs
