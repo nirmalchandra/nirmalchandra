@@ -2,7 +2,7 @@
 <h3 align="center">ETL Engineering || Automation Expert || Open-Source Creator || Cyber Security 🟢 </h3>
 
 ### "Manual Testing" Blogs:
-
+  - [Why ETL Was Born: The Real Reason Behind Data Pipelines](https://medium.com/@ncnayak/why-etl-was-born-the-real-reason-behind-data-pipelines-2-aeccf57f8298)
   - [Testing Data Stream Applications(Kafka) Isn’t Like Testing APIs — 5 Must‐Know Kafka Concepts for Testers](https://medium.com/@nirmal.nayak/testing-kafka-isnt-like-testing-apis-5-must-know-concepts-for-testers-b866bc5689ed) ▶ New* (+ Video 📹 Tutorial)
   - [Manual Tester’s Top 3 Database Client Tools To Easily Test ETL Database Logic](https://medium.com/@nirmal.nayak/the-manual-testers-secret-weapons-3-database-tools-that-make-etl-or-data-testing-easy-fb84a65f9719)  ▶ New* (+ Video 📹 Tutorial)
   - [What is a Mapping Sheet in ETL or Data Projects -- How to make sense out of it](https://medium.com/@ncnayak/the-secret-spec-of-etl-projects-what-exactly-is-a-data-mapping-sheet-04cbb37977ec) ▶ New* (+ Video 📹 Tutorial)
