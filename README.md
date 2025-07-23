@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nirmal Nayak </h1>
 <h3 align="center">ETL Engineering || Automation Expert || Open-Source Creator || Cyber Security 🟢 </h3>
 
-### "Manual Testing" Blogs:
+### 📌"Manual Testing" Blogs:
   - [Why ETL Was Born: The Real Reason Behind Data Pipelines](https://medium.com/@ncnayak/why-etl-was-born-the-real-reason-behind-data-pipelines-2-aeccf57f8298)
   - [Testing Data Stream(Kafka) Isn’t Like Testing APIs — 5 Must‐Know Kafka Concepts for Testers](https://medium.com/@nirmal.nayak/testing-kafka-isnt-like-testing-apis-5-must-know-concepts-for-testers-b866bc5689ed) ▶ New* (+ Video 📹 Tutorial)
   - [Manual Tester’s Top 3 Database Client Tools To Easily Test ETL Database Logic](https://medium.com/@nirmal.nayak/the-manual-testers-secret-weapons-3-database-tools-that-make-etl-or-data-testing-easy-fb84a65f9719)  ▶ New* (+ Video 📹 Tutorial)
   - [What is a Mapping Sheet in ETL or Data Projects -- How to make sense out of it](https://medium.com/@ncnayak/the-secret-spec-of-etl-projects-what-exactly-is-a-data-mapping-sheet-04cbb37977ec) ▶ New* (+ Video 📹 Tutorial)
 
-### "Automated Testing" Blogs:
+### 📌"Automated Testing" Blogs:
   - [Quick & Easy Automation for Kafka and Data Pipeline Testing](https://dzone.com/articles/a-quick-and-practical-example-of-kafka-testing) ▶200K+ views👁️
   - [Simplify Performance Testing with Accuracy — Headless JMeter Style](https://dzone.com/articles/how-we-do-performance-testing-easily-efficiently-a) ▶63K+ views👁️
 
@@ -19,11 +19,11 @@
 
 - [![Medium](https://img.shields.io/badge/Medium(Connect)-%230077B5.svg?logo=linkedin&logoColor=white)](https://medium.com/@ncnayak/about)
  
-## NirmalChandra's Open-Source Commits:
+## 📌NirmalChandra's Open-Source Commits:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=authorjapps&theme=chartreuse_dark)
 
-## Git Repos:
+## 📌Git Repos:
 #### 🤗 My Contributions Below : 
 
 | Open-Source Projects        | **Git Link**  | **Comment**  |
@@ -52,19 +52,19 @@
 
 ## 📈 Highlights of My Open Source Contributions
 
-### Key QA Expertise
+### 📌Key QA Expertise
 - **No-Code Integration Testing (Global Impact)**: Empowered developers and SDETs worldwide by introducing a no-code approach to writing executable integration tests using simple JSON/YAML, eliminating the need for programming knowledge and democratizing testing capabilities.
 
 - **Regression Testing Transformation**: Revolutionized regression testing practices by enabling the rapid creation of regression packs, reducing the time required from months to mere hours or days, driving significant productivity gains.
 
-### Key Operational Expertise
+### 📌Key Operational Expertise
 - **GitOps**: Created Git Operations and Git Flow strategies for highly collaborative environments, enabling efficient version control and seamless collaboration.
 
 - **DevOps**: Created collaborative development and testing strategies, including automated testing, continuous integration, and continuous deployment (CI/CD) pipeline implementation.
 
 - **Environment and Artifact Management**: Created and managed private and public artifact repositories, such as local Nexus and PyPI (artifactories), for smooth environment transitions and production deployments.
 
-### Key Development Expertise
+### 📌Key Development Expertise
 - **Automation Framework Engineering**: Architected and developed a robust automation framework that streamlines the writing of integration tests, enabling seamless and efficient testing processes.
 
 - **Driving Cultural Transformation**: Spearheaded a global cultural shift by creating and mentoring teams of developers and test engineers, instilling Test-Driven Development (TDD) methodologies into their development and testing practices.
