@@ -11,11 +11,12 @@
   - [Quick & Easy Automation for Kafka and Data Pipeline Testing](https://dzone.com/articles/a-quick-and-practical-example-of-kafka-testing) ▶200K+ views👁️
   - [Simplify Performance Testing with Accuracy — Headless JMeter Style](https://dzone.com/articles/how-we-do-performance-testing-easily-efficiently-a) ▶63K+ views👁️
 
-### 📌eBooks:
+### 📌eBooks and Kindle Edition:
   - HOW TO TEST DATA STREAM APPLICATIONS: Kafka Testing Made Simple – Test With Confidence
     - Available [in Amazon UK](https://www.amazon.co.uk/dp/B0FL11LKXQ)(direct link)
     - Available [in Amazon India](https://www.amazon.in/dp/B0FL11LKXQ)(direct link)
     - Available [in Amazon USA](https://www.amazon.com/dp/B0FL11LKXQ)(direct link)
+    - Available [in Gumroad](https://ncnayak.gumroad.com/l/testkafka) (PDF and Other Formats)
 
 
 ### 🚀 Connect with me:
