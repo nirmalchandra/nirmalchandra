@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nirmal Nayak </h1>
 <h3 align="center">ETL Engineering || Automation Expert || Open-Source Creator || Cyber Security 🟢 </h3>
 
+# Blogs
 ### 📌"Manual Testing" Blogs:
   - [Why ETL Was Born: The Real Reason Behind Data Pipelines](https://medium.com/@ncnayak/why-etl-was-born-the-real-reason-behind-data-pipelines-2-aeccf57f8298)
   - [Testing Data Stream(Kafka) Isn’t Like Testing APIs — 5 Must‐Know Kafka Concepts for Testers](https://medium.com/@nirmal.nayak/testing-kafka-isnt-like-testing-apis-5-must-know-concepts-for-testers-b866bc5689ed) ▶ New* (+ Video 📹 Tutorial)
@@ -11,27 +12,36 @@
   - [Quick & Easy Automation for Kafka and Data Pipeline Testing](https://dzone.com/articles/a-quick-and-practical-example-of-kafka-testing) ▶200K+ views👁️
   - [Simplify Performance Testing with Accuracy — Headless JMeter Style](https://dzone.com/articles/how-we-do-performance-testing-easily-efficiently-a) ▶63K+ views👁️
 
+# Books
 ### 📌eBooks and Kindle Edition:
   - HOW TO TEST DATA STREAM APPLICATIONS: Kafka Testing Made Simple – Test With Confidence
     - Available [in Amazon UK](https://www.amazon.co.uk/dp/B0FL11LKXQ)(direct link)
     - Available [in Amazon India](https://www.amazon.in/dp/B0FL11LKXQ)(direct link)
     - Available [in Amazon USA](https://www.amazon.com/dp/B0FL11LKXQ)(direct link)
-    - Available [in Gumroad](https://ncnayak.gumroad.com/l/testkafka) (PDF and Other Formats)
+    - Available [in Gumroad](https://ncnayak.gumroad.com/l/testkafka) (PDF and Video Formats)
 
+### 📌Paperback Edition:
+  - HOW TO TEST DATA STREAM APPLICATIONS: Kafka Testing Made Simple – Test With Confidence
+    - Available [in Amazon UK](https://www.amazon.co.uk/dp/B0FL2SRB28)(direct link)
+    - Available [in Amazon India](https://www.amazon.in/dp/B0FL11LKXQ)(Coming soon...)
+    - Available [in Amazon USA](https://www.amazon.com/dp/B0FL2SRB28)(direct link)
+    - Available [in Gumroad](https://ncnayak.gumroad.com/l/testkafka) (PDF and Video Formats only)
 
-### 🚀 Connect with me:
+# Connect
+🚀 Connect with me:
+- [![Medium](https://img.shields.io/badge/Medium(Connect)-%230077B5.svg?logo=linkedin&logoColor=white)](https://medium.com/@ncnayak/about)
 
 <!-- - [![Topmate](https://img.shields.io/badge/Topmate.io(Schedule)-%23DF492D.svg?logo=linkedin&logoColor=white)](https://topmate.io/nirmal_n) -->
 <!-- - [![LinkedIn](https://img.shields.io/badge/LinkedIn(Connect)-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ncnayak) -->
 <!-- - [![Google Calander](https://img.shields.io/badge/Book%20a%20Test%20Automation%20Support%20Call%20(Free)-8A2BE2)](https://calendar.app.google/V99mEP5YBxbQ5xig7) -->
 
-- [![Medium](https://img.shields.io/badge/Medium(Connect)-%230077B5.svg?logo=linkedin&logoColor=white)](https://medium.com/@ncnayak/about)
- 
-## 📌NirmalChandra's Open-Source Commits:
+
+# Stats
+### 📌NirmalChandra's Open-Source Commits:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=authorjapps&theme=chartreuse_dark)
 
-## 📌Git Repos:
+### 📌Git Repos:
 #### 🤗 My Contributions Below : 
 
 | Open-Source Projects        | **Git Link**  | **Comment**  |
@@ -57,6 +67,8 @@
 
 ![Last Year](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nirmalchandra&theme=algolia)
 
+
+# Highlihgts
 
 ## 📈 Highlights of My Open Source Contributions
 
