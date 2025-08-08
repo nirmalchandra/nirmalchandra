@@ -10,8 +10,8 @@
   - Top 10 ETL Testing Tools [Essential for Manual Testers](https://open.substack.com/pub/ncnayak/p/10-manual-testing-tools-for-etl-testers?r=5axxgf&utm_campaign=post&utm_medium=web) 
 
 ### 📌"Automated Testing" Blogs:
-  - [Quick & Easy Automation for Kafka and Data Pipeline Testing](https://dzone.com/articles/a-quick-and-practical-example-of-kafka-testing) (200,000+ views)
-  - [Simplify Performance Testing with Accuracy — Headless JMeter Style](https://dzone.com/articles/how-we-do-performance-testing-easily-efficiently-a) (63,000+ views)
+  - Quick & Easy Automation for Kafka and Data [Pipeline Testing](https://dzone.com/articles/a-quick-and-practical-example-of-kafka-testing) (200,000+ views)
+  - Simplify Performance Testing with Accuracy — [Headless JMeter Style](https://dzone.com/articles/how-we-do-performance-testing-easily-efficiently-a) (63,000+ views)
 
 # Books
 ### 📌eBooks and Kindle Edition:
