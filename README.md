@@ -28,6 +28,10 @@
     - Available [in Amazon USA](https://www.amazon.com/dp/B0FL2SRB28)(direct link)
     - Available [in Gumroad](https://ncnayak.gumroad.com/l/testkafka) (PDF and Video Formats only)
 
+### 📌Free Copy(Download):
+  - Automated Kafka (or Stream) Testing -- Approaches and Industry Best Practices:
+    - Download from [here (greentdd.com)](https://www.greentdd.com/)
+
 # Connect
 🚀 Connect with me:
 - [![Medium](https://img.shields.io/badge/Medium(Connect)-%230077B5.svg?logo=linkedin&logoColor=white)](https://medium.com/@ncnayak/about)
