@@ -16,17 +16,17 @@
 # Books
 ### 📌eBooks and Kindle Edition:
   - HOW TO TEST DATA STREAM APPLICATIONS: Kafka Testing Made Simple – Test With Confidence
+    - Available [in Gumroad](https://ncnayak.gumroad.com/l/autokafka)(PDF and Kindle Formats)
     - Available [in Amazon UK](https://www.amazon.co.uk/dp/B0FL11LKXQ)(direct link)
-    - Available [in Amazon India](https://www.amazon.in/dp/B0FL11LKXQ)(direct link)
     - Available [in Amazon USA](https://www.amazon.com/dp/B0FL11LKXQ)(direct link)
-    - Available [in Gumroad](https://ncnayak.gumroad.com/l/testkafka) (PDF and Video Formats)
+    - Available [in Amazon India](https://www.amazon.in/dp/B0FL11LKXQ)(direct link)
 
 ### 📌Paperback Edition:
   - HOW TO TEST DATA STREAM APPLICATIONS: Kafka Testing Made Simple – Test With Confidence
+    - Available [in Gumroad](https://ncnayak.gumroad.com/l/autokafka)(PDF and Kindle Formats)
     - Available [in Amazon UK](https://www.amazon.co.uk/dp/B0FL2SRB28)(direct link)
-    - Available [in Amazon India](https://www.amazon.in/dp/B0FL11LKXQ)(Coming soon...)
     - Available [in Amazon USA](https://www.amazon.com/dp/B0FL2SRB28)(direct link)
-    - Available [in Gumroad](https://ncnayak.gumroad.com/l/testkafka) (PDF and Video Formats only)
+    - Available [in Amazon India](https://www.amazon.in/dp/B0FL11LKXQ)(Coming soon...)
 
 ### 📌Free Copy(Download):
   - Automated Kafka (or Stream) Testing -- Approaches and Industry Best Practices:
