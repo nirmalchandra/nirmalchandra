@@ -14,23 +14,12 @@
   - Simplify Performance Testing with Accuracy — [Headless JMeter Style](https://dzone.com/articles/how-we-do-performance-testing-easily-efficiently-a) (63,000+ views)
 
 # Books
-### 📌eBooks and Kindle Edition:
-  - HOW TO TEST DATA STREAM APPLICATIONS: Kafka Testing Made Simple – Test With Confidence
-    - Available [in Gumroad](https://ncnayak.gumroad.com/l/autokafka)(PDF and Kindle Formats)
-    - Available [in Amazon UK](https://www.amazon.co.uk/dp/B0FL11LKXQ)(direct link)
-    - Available [in Amazon USA](https://www.amazon.com/dp/B0FL11LKXQ)(direct link)
-    - Available [in Amazon India](https://www.amazon.in/dp/B0FL11LKXQ)(direct link)
-
-### 📌Paperback Edition:
-  - HOW TO TEST DATA STREAM APPLICATIONS: Kafka Testing Made Simple – Test With Confidence
-    - Available [in Gumroad](https://ncnayak.gumroad.com/l/autokafka)(PDF and Kindle Formats)
-    - Available [in Amazon UK](https://www.amazon.co.uk/dp/B0FL2SRB28)(direct link)
-    - Available [in Amazon USA](https://www.amazon.com/dp/B0FL2SRB28)(direct link)
-    - Available [in Amazon India](https://www.amazon.in/dp/B0FL11LKXQ)(Coming soon...)
-
-### 📌Free Copy(Download):
+### 📌Free eBook(Download):
   - Automated Kafka (or Stream) Testing -- Approaches and Industry Best Practices:
     - Download from [here (greentdd.com)](https://www.greentdd.com/)
+
+### 📌Paperback, eBooks and Kindle Edition(paid):
+  - Visit [Book Page](https://github.com/nirmalchandra/nirmalchandra/wiki) here for country specific listing
 
 # Connect
 🚀 Connect with me:
