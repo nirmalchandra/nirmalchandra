@@ -18,7 +18,7 @@
   - Automated Kafka (or Stream) Testing -- Approaches and Industry Best Practices:
     - Download from [here (greentdd.com)](https://www.greentdd.com/)
 
-### 📌Paperback, eBooks and Kindle Edition(paid):
+### 📌Paperback and Kindle Edition:
   - Visit [Book Page](https://github.com/nirmalchandra/nirmalchandra/wiki) here for country specific listing
 
 # Connect
