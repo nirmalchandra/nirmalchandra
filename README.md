@@ -5,7 +5,7 @@
 ## 1) "Data engineering roles have grown 50% in recent years", with ETL testers earning 30-40% more than traditional QA
 - Nail [the 'ETL Testing' interview questions](https://form.jotform.com/252685739289073) now (👈 Click to start)
 
-## 2) "95% of data engineering roles now require Kafka expertise", with Kafka testers in higher demand than traditional data testers
+## 2) "95% of data engineering roles now require data-streaming(Kafka) expertise", with Kafka testers in higher demand than traditional data testers
 - Take [the Kafka Quiz](https://form.jotform.com/252751524332351) now (👈 Click to start)
 
 
