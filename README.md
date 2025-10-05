@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Nirmal Nayak </h1>
 <h3 align="center">ETL Engineering || Automation Expert || Open-Source Creator || Cyber Security 🟢 </h3>
 
+# Quiz
+## 1) "Data engineering roles have grown 50% in recent years", with ETL testers earning 30-40% more than traditional QA
+- Nail [the 'ETL Testing' interview questions](https://form.jotform.com/252685739289073) now (👈 Click to start)
+
+## 2) "95% of data engineering roles now require Kafka expertise", with Kafka testers in higher demand than traditional data testers
+- Take [the Kafka Quiz](https://form.jotform.com/252751524332351) now (👈 Click to start)
+
+
 # Blogs
 ### 📌"Manual Testing" Blogs:
   - Why ETL Was Born: [The Real Reason Behind Data Pipelines](https://medium.com/@ncnayak/why-etl-was-born-the-real-reason-behind-data-pipelines-2-aeccf57f8298)
