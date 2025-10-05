@@ -44,9 +44,9 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=authorjapps&theme=chartreuse_dark)
 
 ### 📌Git Repos:
-#### 🤗 My Contributions Below : 
+#### 🤗 My Open-Source Contributions : 
 
-| Open-Source Projects        | **Git Link**  | **Comment**  |
+| PROJECTS        | **LINK**  | **COMMENTS**  |
 |:------------------------|:-----| ----- |
 | Nocode or Lowcode Testing Framework | https://github.com/authorjapps/zerocode | - |
 | Seamless Automated Testing - API & Microservices | https://github.com/authorjapps/zerocode-hello-world | - |
