@@ -19,7 +19,7 @@
     - Download from [here (greentdd.com)](https://www.greentdd.com/)
 
 ### 📌Paperback and Kindle Edition:
-  - Visit [Book Page](https://github.com/nirmalchandra/nirmalchandra/wiki) here for country specific listing
+  - Visit [Book Page](https://github.com/nirmalchandra/nirmalchandra/wiki) here for country specific downloads
 
 # Quizzes
 - ETL Testing Q&A - [Data](https://github.com/nirmalchandra/nirmalchandra/wiki/Quizzes#etl-testing-part-1)
