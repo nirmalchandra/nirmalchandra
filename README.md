@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nirmal Nayak </h1>
-<h3 align="center">ETL Engineering || Automation Expert || Open-Source Creator || Cyber Security 🟢 </h3>
+<h3 align="center">ETL & Data Engineer || Automation Expert || Open-Source Author || Cyber Security 🟢 </h3>
 
 # Blogs
 ### 📌"Manual Testing" Blogs:
