@@ -7,7 +7,8 @@
   - Testing Data Stream(Kafka) Isn’t Like Testing APIs — [5 Must‐Know Kafka Concepts for Testers](https://medium.com/@nirmal.nayak/testing-kafka-isnt-like-testing-apis-5-must-know-concepts-for-testers-b866bc5689ed) (+ Video Tutorial)
   - Manual Tester’s Top 3 Database Client Tools [To Easily Test ETL Database Logic](https://medium.com/@nirmal.nayak/the-manual-testers-secret-weapons-3-database-tools-that-make-etl-or-data-testing-easy-fb84a65f9719) (+ Video Tutorial)
   - What is a Mapping Sheet in ETL or Data Projects -- [How to make sense out of it](https://medium.com/@ncnayak/the-secret-spec-of-etl-projects-what-exactly-is-a-data-mapping-sheet-04cbb37977ec) (+ Video Tutorial)
-  - Top 10 ETL Testing Tools [Essential for Manual Testers](https://open.substack.com/pub/ncnayak/p/10-manual-testing-tools-for-etl-testers?r=5axxgf&utm_campaign=post&utm_medium=web) 
+  - Top 10 ETL Testing Tools [Essential for Manual Testers](https://open.substack.com/pub/ncnayak/p/10-manual-testing-tools-for-etl-testers?r=5axxgf&utm_campaign=post&utm_medium=web)
+  - How To Explain ETL in Interview in [4 Easy Steps](https://medium.com/@ncnayak/how-to-explain-your-etl-project-in-interviews-a-beginner-friendly-guide-bb582440ade4)
 
 ### 📌"Automated Testing" Blogs:
   - Quick & Easy Automation for Kafka and Data [Pipeline Testing](https://dzone.com/articles/a-quick-and-practical-example-of-kafka-testing) (200,000+ views)
