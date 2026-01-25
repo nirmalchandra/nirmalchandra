@@ -2,7 +2,7 @@
 <h3 align="center">ETL & Data Engineer || Automation Expert || Open-Source Author || Cyber Security 🟢 </h3>
 
 # Blogs
-### 📌"Manual Testing" Blogs:
+### 📌 Before You Automate("Manual Testing") Blogs:
   - Why ETL Was Born: [The Real Reason Behind Data Pipelines](https://medium.com/@ncnayak/why-etl-was-born-the-real-reason-behind-data-pipelines-2-aeccf57f8298)
   - Testing Data Stream(Kafka) Isn’t Like Testing APIs — [5 Must‐Know Kafka Concepts for Testers](https://medium.com/@nirmal.nayak/testing-kafka-isnt-like-testing-apis-5-must-know-concepts-for-testers-b866bc5689ed) (+ Video Tutorial)
   - Manual Tester’s Top 3 Database Client Tools [To Easily Test ETL Database Logic](https://medium.com/@nirmal.nayak/the-manual-testers-secret-weapons-3-database-tools-that-make-etl-or-data-testing-easy-fb84a65f9719) (+ Video Tutorial)
@@ -10,16 +10,16 @@
   - Top 10 ETL Testing Tools [Essential for Manual Testers](https://open.substack.com/pub/ncnayak/p/10-manual-testing-tools-for-etl-testers?r=5axxgf&utm_campaign=post&utm_medium=web)
   - How To Explain ETL in Interview in [4 Easy Steps](https://medium.com/@ncnayak/how-to-explain-your-etl-project-in-interviews-a-beginner-friendly-guide-bb582440ade4)
 
-### 📌"Automated Testing" Blogs:
+### 📌 "Automated Testing" Blogs:
   - Quick & Easy Automation for Kafka and Data [Pipeline Testing](https://dzone.com/articles/a-quick-and-practical-example-of-kafka-testing) (200,000+ views)
   - Simplify Performance Testing with Accuracy — [Headless JMeter Style](https://dzone.com/articles/how-we-do-performance-testing-easily-efficiently-a) (63,000+ views)
 
 # Books
-### 📌Free eBook(Download):
+### 📌 Free eBook(Download):
   - Automated Kafka (or Stream) Testing -- Approaches and Industry Best Practices:
     - Download from [here (greentdd.com)](https://www.greentdd.com/)
 
-### 📌Paperback and Kindle Edition:
+### 📌 Paperback and Kindle Edition:
   - Visit [Book Page](https://github.com/nirmalchandra/nirmalchandra/wiki) here for country specific downloads
 
 # Quizzes
