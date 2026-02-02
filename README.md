@@ -1,28 +1,17 @@
 <h1 align="center">Hi 👋, I'm Nirmal Nayak </h1>
 <h3 align="center">ETL & Data Engineer || Automation Expert || Open-Source Author || Cyber Security 🟢 </h3>
 
-# Blogs
-### 📌 Before You Automate("Manual Testing") Blogs:
-  - Why ETL Was Born: [The Real Reason Behind Data Pipelines](https://medium.com/@ncnayak/why-etl-was-born-the-real-reason-behind-data-pipelines-2-aeccf57f8298)
-  - Testing Data Stream(Kafka) Isn’t Like Testing APIs — [5 Must‐Know Kafka Concepts for Testers](https://medium.com/@nirmal.nayak/testing-kafka-isnt-like-testing-apis-5-must-know-concepts-for-testers-b866bc5689ed) (+ Video Tutorial)
-  - Manual Tester’s Top 3 Database Client Tools [To Easily Test ETL Database Logic](https://medium.com/@nirmal.nayak/the-manual-testers-secret-weapons-3-database-tools-that-make-etl-or-data-testing-easy-fb84a65f9719) (+ Video Tutorial)
-  - What is a Mapping Sheet in ETL or Data Projects -- [How to make sense out of it](https://medium.com/@ncnayak/the-secret-spec-of-etl-projects-what-exactly-is-a-data-mapping-sheet-04cbb37977ec) (+ Video Tutorial)
-  - Top 10 ETL Testing Tools [Essential for Manual Testers](https://open.substack.com/pub/ncnayak/p/10-manual-testing-tools-for-etl-testers?r=5axxgf&utm_campaign=post&utm_medium=web)
-  - How To Explain ETL in Interview in [4 Easy Steps](https://medium.com/@ncnayak/how-to-explain-your-etl-project-in-interviews-a-beginner-friendly-guide-bb582440ade4)
+# 📌 Blogs 
+- Before You Automate ( [here](https://github.com/nirmalchandra/nirmalchandra/wiki/Blogs#-before-you-automate) )
 
-### 📌 "Automated Testing" Blogs:
-  - Quick & Easy Automation for Kafka and Data [Pipeline Testing](https://dzone.com/articles/a-quick-and-practical-example-of-kafka-testing) (200,000+ views)
-  - Simplify Performance Testing with Accuracy — [Headless JMeter Style](https://dzone.com/articles/how-we-do-performance-testing-easily-efficiently-a) (63,000+ views)
+- Automate ( [here](https://github.com/nirmalchandra/nirmalchandra/wiki/Blogs#-before-you-automate) )
 
-# Books
-### 📌 Free eBook(Download):
-  - Automated Kafka (or Stream) Testing -- Approaches and Industry Best Practices:
-    - Download from [here (greentdd.com)](https://www.greentdd.com/)
+# 📌 Books
+- Free eBook(Download [here](https://github.com/nirmalchandra/nirmalchandra/wiki#ebooks-and-kindle-edition))
 
-### 📌 Paperback and Kindle Edition:
-  - Visit [Book Page](https://github.com/nirmalchandra/nirmalchandra/wiki) here for country specific downloads
+- Paperback and Kindle Edition ( [here](https://github.com/nirmalchandra/nirmalchandra/wiki#ebooks-and-kindle-edition) )
 
-# Quizzes
+# 📌 Quizzes
 - ETL Testing Q&A - [Data](https://github.com/nirmalchandra/nirmalchandra/wiki/Quizzes#etl-testing-part-1)
 - ETL Testing Q&A - [Data-Stream](https://github.com/nirmalchandra/nirmalchandra/wiki/Quizzes#kafka-testing-part-2)(Kafka)
 
