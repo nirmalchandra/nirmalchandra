@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nirmal Nayak </h1>
-<h3 align="center">ETL & Data || Automation Expert || Open-Source Author 🟢 </h3>
+<h3 align="center">ETL & Data Pipeline || Automation Expert || Open-Source Author 🟢 </h3>
 
-# 📌 Blogs 
+# 📌 Automation 
 - Before You Automate ( [here](https://github.com/nirmalchandra/nirmalchandra/wiki/Blogs#-before-you-automate) )
 
 - Automate ( [here](https://github.com/nirmalchandra/nirmalchandra/wiki/Blogs#-before-you-automate) )
@@ -29,8 +29,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=authorjapps&theme=chartreuse_dark)
 
-### 📌Git Repos:
-#### 🤗 My Open-Source Contributions : 
+### 📌Open-Source collabs:
 
 | PROJECTS        | **LINK**  | **COMMENTS**  |
 |:------------------------|:-----| ----- |
