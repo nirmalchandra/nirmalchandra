@@ -1,19 +1,22 @@
 <h1 align="center">Hi 👋, I'm Nirmal Nayak </h1>
 <h3 align="center">ETL & Data Pipeline || Automation Expert || Open-Source Author 🟢 </h3>
 
-# 📌 Automation 
+# Automation 
 - Before You Automate ( [here](https://github.com/nirmalchandra/nirmalchandra/wiki/Blogs#-before-you-automate) )
 
 - Automate ( [here](https://github.com/nirmalchandra/nirmalchandra/wiki/Blogs#-before-you-automate) )
 
-# 📌 Books
+# Books
 - Free eBook(Download [here](https://github.com/nirmalchandra/nirmalchandra/wiki#ebooks-and-kindle-edition))
 
 - Paperback and Kindle Edition ( [here](https://github.com/nirmalchandra/nirmalchandra/wiki#ebooks-and-kindle-edition) )
 
-# 📌 Quizzes
+# 📌Interviews
 - ETL Testing Q&A - [Data](https://github.com/nirmalchandra/nirmalchandra/wiki/Quizzes#etl-testing-part-1)
 - ETL Testing Q&A - [Data-Stream](https://github.com/nirmalchandra/nirmalchandra/wiki/Quizzes#kafka-testing-part-2)(Kafka)
+
+# 🎧Podcasts
+- How to explain ETL project - [in interview](https://medium.com/@ncnayak/how-to-explain-your-etl-project-in-interviews-a-beginner-friendly-guide-bb582440ade4?sk=b27c0f7dbed2c732487a5f53da7aa841) ?
 
 # Connect
 🚀 Connect with me:
