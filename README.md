@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nirmal Nayak </h1>
-<h3 align="center">ETL & Data Pipeline || Automation Expert || Open-Source Author 🟢 </h3>
+<h3 align="center">Product Engineer | ETL & Data | Automation Expert | Open-Source Author 🟢 </h3>
 
 # Automation 
 - Before You Automate ( [here](https://github.com/nirmalchandra/nirmalchandra/wiki/Blogs#-before-you-automate) )
